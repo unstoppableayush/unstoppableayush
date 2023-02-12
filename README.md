@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayushkum884@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mIoxPFvlKxWWo-O1ZIth7qkWMkBYH5vp/view?usp=share_link](https://unstoppableayush.github.io/ayush-portfolio/AyushResume1.pdf)
+- 📄 Know about my experiences [Ayush's Cv]([https://unstoppableayush.github.io/ayush-portfolio/AyushResume1.pdf](https://drive.google.com/file/d/1mIoxPFvlKxWWo-O1ZIth7qkWMkBYH5vp/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
