@@ -49,4 +49,4 @@
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
 </p>
 
-<h4 align="center"> Show some ❤️ by starring ⭐ some of the repositories! </h4>
+<h3 align="center"> Show some ❤️ by starring ⭐ some of the repositories! </h3>
