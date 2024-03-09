@@ -38,8 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unstoppableayush&theme=dark" alt="unstoppableayush " /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayushkum884?border=0&radius=10theme=dark&font=Poppins)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
