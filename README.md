@@ -38,9 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unstoppableayush&theme=dark" alt="unstoppableayush " /></p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 <p align="right">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
