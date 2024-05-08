@@ -6,7 +6,7 @@
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unstoppableayush&label=Profile%20views&color=0e75b6&style=flat" alt="unstoppableayush" /> </p>
-<h4 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h4>
+<h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h2>
 
 - 🔭 I’m currently pursuing B.Tech **in CSE**
 
