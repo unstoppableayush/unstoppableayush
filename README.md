@@ -70,7 +70,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unstoppableayush&theme=dark" alt="unstoppableayush " width="490"  /></p>
 
-</br>
+##
 
 <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" >
