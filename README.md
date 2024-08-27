@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently pursuing B.Tech **in CSE**
 
-- 🌱 I’m currently learning **React js, Node Js , Django**
+- 🌱 I’m currently learning **React js, Node Js, Django**
 
-- 💬 Ask me about **Java ,Dbms ,Os**
+- 💬 Ask me about **Java, Dbms, Os**
 
 - 📫 How to reach me **ayushkum884@gmail.com**
 
