@@ -45,8 +45,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=expressjs" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongo logo"  />
@@ -62,6 +60,10 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
 </div>
 
