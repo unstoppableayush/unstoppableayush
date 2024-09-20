@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayushkum884@gmail.com**
 
-<h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=60px height=38px align="center" >Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 <p align=left>
 <a href="https://linkedin.com/in/unstoppableayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unstoppableayush" height="30" width="40" /></a>
 <a href="https://instagram.com/unstoppable_ayush.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unstoppable_ayush.dev" height="30" width="40" /></a>
