@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unstoppableayush&label=Profile%20views&color=0e75b6&style=flat" alt="unstoppableayush" /> </p>
 <h2 align="left"> About Me </h2>
 
-- 🔭 I’m currently pursuing B.Tech **in CSE**
+- 🔭 I’ve completed B.Tech **in CSE**
 
 - 🌱 I’m currently learning **React js, Node Js, Django**
 
