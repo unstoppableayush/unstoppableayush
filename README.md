@@ -70,10 +70,6 @@
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp; GitHub Stats:</h2>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unstoppableayush&show_icons=true&locale=en&layout=compact&theme=dark" alt="unstoppableayush" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=unstoppableayush&show_icons=true&locale=&theme=dark" alt="unstoppableayush" width="400"  /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unstoppableayush&theme=dark" alt="unstoppableayush " width="490"  /></p>
 
 ##
