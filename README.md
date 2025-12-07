@@ -8,7 +8,6 @@
 - Currently exploring FastAPI, IoT software, cloud tools, DevOps, and agentic AI.
 - Building, breaking, learning — repeat.
 - Problem solving: turn ideas into working software quickly
-- Full-stack developer: experienced in front-end, back-end, databases, and cloud technologies.
 
 <h2>Tech Stack 🛠️</h2>
 
@@ -53,7 +52,7 @@
 	• Integrated EmailJS; later migrated backend to Node.js
 
 
-<h2>Projects 🚀</h2>
+<!-- <h2>Projects 🚀</h2>
 <ul>
 	<li>
 		<b>SmartPrep - Community for students</b><br/>
@@ -79,6 +78,7 @@
 		<b>Tech Stack:</b> Python · Retrieval‑Augmented Generation · Vector store · LLM APIs<br/>
 	</li>
 </ul>
+ -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=20&center=true&vCenter=true&width=600&height=50&lines=Building+real-world+systems%3A+APIs+%7C+Automation+%7C+Cloud" alt="typing-anim" />
