@@ -7,7 +7,7 @@
 - B.Tech in Computer Science & Engineering
 - Currently exploring FastAPI, IoT software, cloud tools, DevOps, and agentic AI.
 - Building, breaking, learning — repeat.
-- Problem solving: turn ideas into working software quickly
+- Problem solver — I turn ideas into real, working software quickly.
 
 <h2>Tech Stack 🛠️</h2>
 
