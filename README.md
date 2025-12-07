@@ -4,30 +4,31 @@
 
 <h2>About Me 💡</h2>
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 🌱 Currently exploring FastAPI, IoT software, cloud tools, DevOps, and agentic AI.
-- 📫 Reach me: <a href="mailto:ayushkum884@gmail.com">ayushkum884@gmail.com</a>
-- 🔧 Building, breaking, learning — repeat.
-- 🧠 Problem solving: turn ideas into working software quickly
-- 🧩 Full‑stack: front end + back end + databases
+- B.Tech in Computer Science & Engineering
+- Currently exploring FastAPI, IoT software, cloud tools, DevOps, and agentic AI.
+- Building, breaking, learning — repeat.
+- Problem solving: turn ideas into working software quickly
+- Full-stack developer: experienced in front-end, back-end, databases, and cloud technologies.
 
 <h2>Tech Stack 🛠️</h2>
 
-- 🔤 <b>Languages</b>: C, C++, Java, Python, JavaScript, Dart
-- 🌐 <b>Web</b>: HTML, CSS, React, Node.js, Express.js, Tailwind, Bootstrap
-- 🧱 <b>Frameworks</b>: Django, FastAPI, Express.js, Flutter
-- 🗄️ <b>Databases</b>: PostgreSQL, MySQL, MongoDB
-- 🧭 <b>Version Control</b>: Git, GitHub
-- 🖥️ <b>Tools</b>: Linux, GCP, Shell & Python scripting, Docker
-- ☁️ <b>Cloud Platforms</b>: GCP, AWS
+- <b>Languages</b>: C, C++, Java, Python, JavaScript, Dart
+- <b>Web</b>: HTML, CSS, React, Node.js, Express.js, Tailwind, Bootstrap
+- <b>Frameworks</b>: Django, FastAPI, Express.js, Flutter
+- <b>Databases</b>: PostgreSQL, MySQL, MongoDB
+- <b>Version Control</b>: Git, GitHub
+- <b>Tools</b>: Linux, GCP, Shell & Python scripting, Docker
+- <b>Cloud Platforms</b>: GCP, AWS
 
 <h2>Connect 🌍</h2>
 
 <p>
+<a href="mailto:ayushkum884@gmail.com" target="_blank">📧 Email</a>
 <a href="https://linkedin.com/in/unstoppableayush" target="_blank">💼 LinkedIn</a> ·
 <a href="https://instagram.com/unstoppable_ayush.dev" target="_blank">📸 Instagram</a> ·
-<a href="https://twitter.com/unstoppable_ius" target="_blank">🐦 Twitter</a>
+<a href="https://twitter.com/unstoppable_ius" target="_blank">𝕏 Twitter</a>
 </p>
+
 
 <h2>Experience 💼</h2>
 
@@ -56,28 +57,31 @@
 <ul>
 	<li>
 		<b>SmartPrep - Community for students</b><br/>
-		React · Node.js · Gemini · LangChain · Cloudinary · Google APIs · Firebase · Pinecone · MongoDB<br/>
+		- Community platform for students to share PYQs, notes, and auto‑generated AI quizzes.<br/>
+		<b>Tech Stack:</b> React · Node.js · Gemini · LangChain · Cloudinary · Google APIs · Firebase · Pinecone · MongoDB<br/>
 		AI quizzes from PDFs/text · Community uploads (PYQs/notes) · Admin moderation
 	</li>
 	<li>
 		<b>Ojasx - Event Management Web App</b> (Team of 5)<br/>
-		HTML/CSS/JS, Bootstrap · Node.js/Express · MongoDB · Payments · Auth<br/>
+		- Responsive event portal with payments, auth, cart, and admin controls.<br/>
+		<b>Tech Stack:</b> HTML/CSS/JS, Bootstrap · Node.js/Express · MongoDB · Payments · Auth<br/>
 		Payment gateway · Student/Admin auth · Responsive · Cart · Dark theme
 	</li>
 	<li>
 		<b>MV Secure Solutions - E‑commerce for Startup</b><br/>
-		React · Tailwind · Node.js · Vercel · Razorpay · Dashboards · PDF
+		- Lightweight e‑commerce site with payments, dashboards, and fast deployment.<br/>
+		<b>Tech Stack:</b> React · Tailwind · Node.js · Vercel · Razorpay · Dashboards · PDF
 	</li>
 	<li>
 		<b>RAG Chatbot</b><br/>
-		Python · Retrieval‑Augmented Generation · Vector store · LLM APIs<br/>
-		Answers using uploaded document context; modular ingestion/retrieval
+		- Chatbot that answers using uploaded document context via RAG pipeline.<br/>
+    - Answers using uploaded document context; modular ingestion/retrieval <br/>
+		<b>Tech Stack:</b> Python · Retrieval‑Augmented Generation · Vector store · LLM APIs<br/>
 	</li>
 </ul>
 
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=20&center=true&vCenter=true&width=600&height=40&lines=Building+real-world+systems%3A+APIs+%7C+Automation+%7C+Cloud" alt="typing-anim" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=20&center=true&vCenter=true&width=600&height=50&lines=Building+real-world+systems%3A+APIs+%7C+Automation+%7C+Cloud" alt="typing-anim" />
 </p>
 
 <p align="center"><i>Show some ❤️ by starring ⭐ repositories!</i> ✨</p>
