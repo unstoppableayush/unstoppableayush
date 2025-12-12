@@ -16,7 +16,7 @@
 - <b>Frameworks</b>: Django, FastAPI, Express.js, Flutter
 - <b>Databases</b>: PostgreSQL, MySQL, MongoDB
 - <b>Version Control</b>: Git, GitHub
-- <b>Tools</b>: Linux, GCP, Shell & Python scripting, Docker
+- <b>Tools</b>: Linux, Shell & Python scripting, Docker, DBeaver
 - <b>Cloud Platforms</b>: GCP, AWS
 
 <h2>Connect 🌍</h2>
