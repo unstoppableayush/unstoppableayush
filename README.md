@@ -31,14 +31,6 @@
 
 <h2>Experience 💼</h2>
 
-<!--
-- <b>Sarva Suvidhaen Private Limited</b> · Software Developer · Full‑time · Hybrid<br/>
-	<i>Jul 2025 – Present · Patna, Bihar, India</i><br/>
-	• Built scalable notifications (Django Q, AsyncIO, Firebase)<br/>
-	• Migrated infrastructure from GCP to AWS<br/>
-	• Implemented IoT pipeline: camera feeds → S3 for ML
--->
-
 - <b>Sarva Suvidhaen Private Limited</b> · Software Developer Intern · Remote<br/>
 	<i>Jun 2024 – Jul 2025 </i><br/>
 	• Contributed to real‑time railway monitoring projects<br/>
@@ -46,6 +38,9 @@
 	• Deployed multi‑instance setups to reduce cloud cost; +40% backend efficiency<br/>
 	• Built REST APIs & core UI features; Agile + Git/GitHub
 	• Automated tasks (Shell/Python); managed services on GCP
+	• Built scalable notifications (Django Q, AsyncIO, Firebase)<br/>
+	• Migrated infrastructure from GCP to AWS<br/>
+	• Implemented IoT pipeline: camera feeds → S3 for ML
 
 - <b>Global Investors Forum</b> · Full Stack Developer · Internship · Remote<br/>
 	<i>Apr 2024 – May 2024 </i><br/>
