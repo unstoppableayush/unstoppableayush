@@ -45,7 +45,7 @@
 - <b>Global Investors Forum</b> · Full Stack Developer · Internship · Remote<br/>
 	<i>Apr 2024 – May 2024 </i><br/>
 	• Developed & hosted two professional websites end‑to‑end<br/>
-	• Iterated with Agile feedback; responsive, component‑based UI
+	• Iterated with Agile feedback; responsive, component‑based UI<br/>
 	• Integrated EmailJS; later migrated backend to Node.js
 
 
