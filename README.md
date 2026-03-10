@@ -36,8 +36,8 @@
 	• Contributed to real‑time railway monitoring projects<br/>
 	• Scaled users 100 → 5,000+ via automation & streamlined ops<br/>
 	• Deployed multi‑instance setups to reduce cloud cost; +40% backend efficiency<br/>
-	• Built REST APIs & core UI features; Agile + Git/GitHub
-	• Automated tasks (Shell/Python); managed services on GCP
+	• Built REST APIs & core UI features; Agile + Git/GitHub<br/>
+	• Automated tasks (Shell/Python); managed services on GCP<br/>
 	• Built scalable notifications (Django Q, AsyncIO, Firebase)<br/>
 	• Migrated infrastructure from GCP to AWS<br/>
 	• Implemented IoT pipeline: camera feeds → S3 for ML
