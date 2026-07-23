@@ -77,7 +77,7 @@
  -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=20&center=true&vCenter=true&width=600&height=50&lines=Building+real-world+systems%3A+APIs+%7C+Automation+%7C+Cloud" alt="typing-anim" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=20&center=true&vCenter=true&width=600&height=50&lines=Building+real-world+systems" alt="typing-anim" />
 </p>
 
 <p align="center"><i>Show some ❤️ by starring ⭐ repositories!</i> ✨</p>
