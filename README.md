@@ -28,7 +28,7 @@
 </p>
 
 
-<h2>Experience 💼</h2>
+<!-- <h2>Experience 💼</h2>
 
 - <b>Sarva Suvidhaen Private Limited</b> · Software Developer Intern · Remote<br/>
 	<i>Jun 2024 – Jul 2025 </i><br/>
@@ -45,7 +45,7 @@
 	<i>Apr 2024 – May 2024 </i><br/>
 	• Developed & hosted two professional websites end‑to‑end<br/>
 	• Iterated with Agile feedback; responsive, component‑based UI<br/>
-	• Integrated EmailJS; later migrated backend to Node.js
+	• Integrated EmailJS; later migrated backend to Node.js -->
 
 
 <!-- <h2>Projects 🚀</h2>
